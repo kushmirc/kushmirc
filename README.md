@@ -1,8 +1,8 @@
-<h1>Hi, I'm Kush!</h1>
+<h1>Hi, I'm Kush!</h1> B.S. in Computer Science Candidate (Junior Year)
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
+  - A file management system created for Linux Ubuntu
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
