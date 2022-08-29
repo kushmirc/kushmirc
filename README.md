@@ -11,39 +11,39 @@
   - A Java program to identify all prime numbers in a list of numbers
 - <b>[Playlist](https://github.com/kushmirc/Playlist)</b>
   - A Java program demonstrating array lists
-- <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
-  - A file management system created for Linux Ubuntu
-- <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
-  - A file management system created for Linux Ubuntu
+- <b>[Loan Payment Calculator](https://github.com/kushmirc/LoanPaymentCalculator)</b>
+  - A Java program demonstrating conditionals and arithmetic functions
+- <b>[Build a Robot](https://github.com/kushmirc/BuildARobot)</b>
+  - A Java program demonstrating objects and constructor
 
 <h2>Side Projects:</h2>
-- <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
-  - A file management system created for Linux Ubuntu
-- <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
-  - A file management system created for Linux Ubuntu
 
-<h2>📺 Popular YouTube Videos</h2>
+- <b>[Nihongo Kaiwa Kyozai](https://github.com/kushmirc/nihongokaiwakyozai)</b>
+  - An online resource for Japanese language teaching materials
+- <b>[Family Feud Game](https://github.com/kushmirc/FamilyFeudGame)</b>
+  - This is a Family Feud Game built in Powerpoint
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>📺 YouTube Video Walkthroughs</h2>
+
+- [Linux File Management System](https://youtu.be/3vZHrbaczI8)
+- [World Languages](https://youtu.be/-iKE9Culkg4)
+- [DNA Sequence](https://youtu.be/bIEedTwLLvA)
+- [All Primes](https://youtu.be/ePJtfp1ypis)
+- [Playlist](https://youtu.be/MkLUGIZoor4)
+- [Loan Payment Calculator](https://youtu.be/f19DQgB0NkI)
+- [Build a Robot](https://youtu.be/NsBDct0dEfM)
+- [Nihongo Kaiwa Kyozai](https://youtu.be/PMabXz6iVUg)
+- [Family Feud Game](https://youtu.be/9rT6Zetc9zM)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kush Mirchandani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kush Mirchandani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/kush-mirchandani
+[youtube]: https://www.youtube.com/channel/UCJbm3H0Ev7eEeZhNf4fKEfg
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
