@@ -3,6 +3,8 @@
 
 - <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
   - A file management system created for Linux Ubuntu
+- <b>[Student Data System](https://github.com/kushmirc/StudentDataSystem)</b>
+  - A C++ program that performs various functions on student data
 - <b>[World Languages](https://github.com/kushmirc/WorldLanguages)</b>
   - A Java program demonstrating inheritance
 - <b>[DNA Sequence](https://github.com/kushmirc/DNASequence)</b>
@@ -26,6 +28,7 @@
 <h2>📺 YouTube Video Walkthroughs</h2>
 
 - [Linux File Management System](https://youtu.be/3vZHrbaczI8)
+- [Student Data System](https://youtu.be/MkwMkTik58Q)
 - [World Languages](https://youtu.be/-iKE9Culkg4)
 - [DNA Sequence](https://youtu.be/bIEedTwLLvA)
 - [All Primes](https://youtu.be/ePJtfp1ypis)
