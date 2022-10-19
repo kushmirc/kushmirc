@@ -29,9 +29,11 @@
 
 [<img align="left" alt="Kush Mirchandani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kush Mirchandani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kush Mirchandani | Website" width="22px" src="https://img.icons8.com/ios/50/000000/internet--v1.png" />][website]
 
 [linkedin]: https://www.linkedin.com/in/kush-mirchandani
 [youtube]: https://www.youtube.com/channel/UCJbm3H0Ev7eEeZhNf4fKEfg
+[website]: https://www.kushmirchandani.com
 
 <!--
 
