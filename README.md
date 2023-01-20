@@ -22,6 +22,7 @@
 - [Inventory System](https://youtu.be/YN203X8kfw0)
 - [Linux File Management System](https://youtu.be/3vZHrbaczI8)
 - [Student Data System](https://youtu.be/MkwMkTik58Q)
+- [DVD Rental](https://youtu.be/jQ7rpQ4HABs)
 - [Nihongo Kaiwa Kyozai](https://youtu.be/PMabXz6iVUg)
 - [Family Feud Game](https://youtu.be/9rT6Zetc9zM)
 
