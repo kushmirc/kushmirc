@@ -7,8 +7,8 @@
   - A file management system created for Linux Ubuntu
 - <b>[Student Data System](https://github.com/kushmirc/StudentDataSystem)</b>
   - A C++ program that performs various functions on student data
-- <b>[Short Java Programs](https://github.com/kushmirc/ShortJavaPrograms)</b>
-  - Simple programs in Java implementing object oriented techniques.
+- <b>[DVD Rental](https://github.com/kushmirc/DVDRental)</b>   
+  - A project in PostgreSQL analyzing information from the DVD Rental database.
 
 <h2>Side Projects:</h2>
 
