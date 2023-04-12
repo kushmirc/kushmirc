@@ -1,6 +1,8 @@
 <h1>Hi, I'm Kush!</h1> B.S. in Computer Science Candidate (Junior Year)
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>[Package Delivery]([https://github.com/kushmirc/PackageDelivery))</b>
+  - A Python project which finds the shortest route for delivering mail packages.
 - <b>[Inventory System](https://github.com/kushmirc/InventorySystem)</b>
   - An inventory management system programmed in Java, with a JavaFX GUI.
 - <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
