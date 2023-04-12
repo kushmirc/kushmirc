@@ -21,6 +21,7 @@
 
 <h2>📺 YouTube Video Walkthroughs</h2>
 
+- [Package Delivery](https://youtu.be/1WIykO5yglE)
 - [Inventory System](https://youtu.be/YN203X8kfw0)
 - [Linux File Management System](https://youtu.be/3vZHrbaczI8)
 - [Student Data System](https://youtu.be/MkwMkTik58Q)
