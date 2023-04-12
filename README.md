@@ -3,6 +3,8 @@
 
 - <b>[Package Delivery](https://github.com/kushmirc/PackageDelivery)</b>
   - A Python project which finds the shortest route for delivering mail packages.
+- <b>[Scheduling System](https://github.com/kushmirc/SchedulingSystem)</b>
+  - An appointment scheduling system programmed in Java, with a JavaFX GUI.
 - <b>[Inventory System](https://github.com/kushmirc/InventorySystem)</b>
   - An inventory management system programmed in Java, with a JavaFX GUI.
 - <b>[Linux File Management System](https://github.com/kushmirc/LinuxFileManagement)</b>
@@ -22,6 +24,7 @@
 <h2>📺 YouTube Video Walkthroughs</h2>
 
 - [Package Delivery](https://youtu.be/1WIykO5yglE)
+- [Scheduling System](https://youtu.be/P8vMjete4uo)
 - [Inventory System](https://youtu.be/YN203X8kfw0)
 - [Linux File Management System](https://youtu.be/3vZHrbaczI8)
 - [Student Data System](https://youtu.be/MkwMkTik58Q)
