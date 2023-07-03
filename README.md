@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kush!</h1> B.S. in Computer Science
+<h1>Hi, I'm Kush!</h1> B.S. in Computer Science - Western Governors University, 2023
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>[Package Delivery](https://github.com/kushmirc/PackageDelivery)</b>
