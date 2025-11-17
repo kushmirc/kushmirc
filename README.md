@@ -3,13 +3,13 @@
 
 - <b>[Banking Modernization](https://github.com/kushmirc/banking-modernization)</b>
   - Legacy Java JSP servlet banking app incrementally migrated to modern Spring Boot.
-- <b>[文革検索 (Bungaku Kensaku)](https://github.com/kushmirc/bungaku-kensaku)</b>
-  - AIを利用して日本作家の著作を検索いたします (AI-powered semantic search for Japanese literature).
 - <b>[Scheduling System](https://github.com/kushmirc/SchedulingSystem)</b>
   - An appointment scheduling system programmed in Java, with a JavaFX GUI.
 
 <h2>Side Projects & Systems:</h2>
 
+- <b>[文革検索 (Bungaku Kensaku)](https://github.com/kushmirc/bungaku-kensaku)</b>
+  - AIを利用して日本作家の著作を検索いたします (AI-powered semantic search for Japanese literature).
 - <b>[Payroll Organizer](https://github.com/kushmirc/PayrollOrganizer)</b>
   - Microsoft Excel macros to automatically separate and organize data records.
 - <b>[Package Delivery](https://github.com/kushmirc/PackageDelivery)</b>
